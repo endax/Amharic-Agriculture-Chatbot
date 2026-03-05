@@ -1,5 +1,5 @@
 #  Amharic Agriculture Chatbot
-### Deep Learning Based NLP System for Ethiopian Farmers
+### Deep Learning Based Amharic Chatbot for Ethiopian Farmers
 
 ---
 
